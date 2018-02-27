@@ -1,0 +1,9 @@
+
+
+.ToggleButton:selected{
+    -fx-background-color: rgb(71, 153, 255);
+}
+
+.ToggleButton:hover{
+    -fx-background-color: rgba(0, 0, 0, 0.38);
+}
